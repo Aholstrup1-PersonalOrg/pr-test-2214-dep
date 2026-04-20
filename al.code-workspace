@@ -4,6 +4,9 @@
       "path": "FoundationApp"
     },
     {
+      "path": "FoundationTestApp"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
